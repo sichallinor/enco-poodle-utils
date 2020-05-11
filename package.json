@@ -1,0 +1,29 @@
+{
+  "name": "enco-poodle-utils",
+  "version": "0.1.1",
+  "description": "Utilities for the Enco Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sichallinor/enco-poodle-utils.git"
+  },
+  "keywords": [
+    "UTILS",
+    "DATE",
+    "FORMATS"
+  ],
+  "author": "Simon Challinor <sdchallinor@gmail.com> (https://tdr-encompass.com/sichallinor)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sichallinor/enco-poodle-utils/issues"
+  },
+  "homepage": "https://github.com/sichallinor/enco-poodle-utils#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "simple-node-logger": "^18.12.24",
+    "uuid": "^3.3.3"
+  }
+}
